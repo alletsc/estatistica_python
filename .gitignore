@@ -146,3 +146,4 @@ cython_debug/
 *.pdf
 *.txt
 book/
+.ipynb_checkpoints
