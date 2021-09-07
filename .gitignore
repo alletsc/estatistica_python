@@ -139,8 +139,10 @@ dmypy.json
 cython_debug/
 
 *.csv
+*xls
 *.xlsx
 *.idea
 *.vscode
 *.pdf
-
+*.txt
+book/
