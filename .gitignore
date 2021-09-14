@@ -147,3 +147,4 @@ cython_debug/
 *.txt
 book/
 .ipynb_checkpoints
+dados/
