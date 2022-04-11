@@ -148,3 +148,4 @@ cython_debug/
 book/
 .ipynb_checkpoints
 dados/
+dsenv/
